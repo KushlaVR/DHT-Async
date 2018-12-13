@@ -2,7 +2,7 @@
 
 This lib is equel to DHT with only diference - it have readAsync() method
 
-##How to use
+## How to use
 1. copy DHT-Async files into Scetch folder
 2. Add include statement to scetch 
 >#include "DHT_Async.h"
